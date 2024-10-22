@@ -5,4 +5,5 @@ Revon Hollis
 Jesus Barrios
 Ruby Hirsch
 
-Unity project / repo duplicated from https://github.com/axhiggin/The-Strugglebus to use as a template (Norman's past group project). 
+Unity project / repo duplicated from https://github.com/axhiggin/The-Strugglebus to use as a template (Norman's past group project for CMPM125). 
+Game can be found here: https://bighig.itch.io/fortify-and-tunnel
